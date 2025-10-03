@@ -23,9 +23,6 @@ Este repositório foi criado para:
 ---
 
 ## 📂 Estrutura do Repositório
-
-> 📝 Dica: Comece pelos **exemplos**, pratique com os **exercícios** e desafie-se nos **desafios**.
-
 ---
 
 ## 🛠 Conteúdo  
